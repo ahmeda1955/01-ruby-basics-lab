@@ -1,23 +1,16 @@
-def division
-    
+def division(num,val)
+return  num / val 
 end
 
-def argue
-  
+def argue(irrelevant)
+  return irrelevant
 end
 
-def greeting
+def greeting(hi,bye)
 
 end
 
 def return_a_value
-    
+    return "Nice"
 end
 
-def pizza_party
-    
-end
-
-def whisper
-    
-end
